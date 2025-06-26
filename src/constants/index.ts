@@ -207,9 +207,9 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "StudyNotion",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "StudyNotion is a fully functional EdTech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS.",
     tags: [
       {
         name: "react",
@@ -249,9 +249,9 @@ const projects: TProject[] = [
   //   sourceCodeLink: "https://github.com/",
   // },
   {
-    name: "Trip Guide",
+    name: "GUESS THAT MOVIE!",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "I built this simple yet engaging movie scramble game using python and libraries such as canvas and graphics class. It was so fun building this project , learnt a lot . The objective is for the user to guess the correct movie title from the scrambled letter on the screen. I have made this with scoring system, user friendly interface and interactive.",
     tags: [
       {
         name: "python",
@@ -261,10 +261,10 @@ const projects: TProject[] = [
         name: "animations",
         color: "green-text-gradient",
       },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
+      // {
+      //   name: "css",
+      //   color: "pink-text-gradient",
+      // },
     ],
     image: tripguide,
     sourceCodeLink: "https://github.com/",
